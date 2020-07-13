@@ -1,6 +1,6 @@
 # Wordpress - MySQL Integration with Amazon EKS (Elastic Kubernetes Service)
 <!-- wp:paragraph -->
-<p>Hello guys, this contains some yaml of mysql-wordpress deployment over EKS. in my post i explained step by step deployment of  your own wordpress blog site with mysql database  over Amazon EKS (Elastic Kuberenetes Service). So, i'll start with some introduction to device, then amazon services and at last about EKS . </p>
+<p>Hello guys, this repository contains some yaml of mysql-wordpress deployment over EKS. in my post i explained step by step deployment of  your own wordpress blog site with mysql database  over Amazon EKS (Elastic Kuberenetes Service). So, i'll start with some introduction to device, then amazon services and at last about EKS . </p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>In that post , we will discuss on :</p>
