@@ -9,3 +9,5 @@
 <!-- wp:list {"ordered":true} -->
 <ol><li>Introduction to some device os method</li><li>Introduction to some AWS services</li><li>What is EKS</li><li>What is wordpress and MySQL</li><li>Flow Cycles</li><li>How to Deploy Wordpress - Mysql over EKS.</li></ol>
 <!-- /wp:list -->
+
+Link to the post : http://lockdown21.epizy.com/2020/07/11/wordpress-mysql-integration-with-amazon-eks-elastic-kubernetes-service/
